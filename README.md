@@ -5,4 +5,4 @@ Primeiro Desafio da dio
 
 **Desenvolvendo o repositório**
 
-[sintaxe do markdown] (https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
+    [Markdown](https://markdown.net.br/sintaxe-basica/){:target="_blank"}
