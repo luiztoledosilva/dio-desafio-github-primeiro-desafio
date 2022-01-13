@@ -5,4 +5,3 @@ Primeiro Desafio da dio
 
 **Desenvolvendo o repositório**
 
-    [Markdown](https://markdown.net.br/sintaxe-basica/){:target="_blank"}
